@@ -1,0 +1,14 @@
+/Users/victor/Desktop/Projects/ArbitrageBot/engine/target/release/deps/serde-d8318ee3b220e78b.d: /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/victor/Desktop/Projects/ArbitrageBot/engine/target/release/build/serde-0c2cb04afaf85531/out/private.rs
+
+/Users/victor/Desktop/Projects/ArbitrageBot/engine/target/release/deps/libserde-d8318ee3b220e78b.rlib: /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/victor/Desktop/Projects/ArbitrageBot/engine/target/release/build/serde-0c2cb04afaf85531/out/private.rs
+
+/Users/victor/Desktop/Projects/ArbitrageBot/engine/target/release/deps/libserde-d8318ee3b220e78b.rmeta: /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/victor/Desktop/Projects/ArbitrageBot/engine/target/release/build/serde-0c2cb04afaf85531/out/private.rs
+
+/Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/victor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/victor/Desktop/Projects/ArbitrageBot/engine/target/release/build/serde-0c2cb04afaf85531/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/victor/Desktop/Projects/ArbitrageBot/engine/target/release/build/serde-0c2cb04afaf85531/out

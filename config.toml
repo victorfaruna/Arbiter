@@ -1,0 +1,32 @@
+# ArbitrageBot Engine Configuration
+
+[engine]
+min_spread_pct = 0.1
+scan_interval_ms = 20
+simulation_mode = true
+api_port = 8080
+
+[exchanges.bybit]
+enabled = true
+api_key = "O0m7Epmw1LBBBGk7sQ"
+api_secret = "Wxep24LBKwvMC2QRKtlG215XDC9LHMoYcirL"
+fee_pct = 0.1
+
+[exchanges.bitget]
+enabled = true
+api_key = "bg_380f0c0ad63caa85eab54044b95c7a0d"
+api_secret = "07c3b677757e579a451063e439a7d62a0658337e22d34e31affba0866ce470b1"
+passphrase = "7894561230Db"
+fee_pct = 0.1
+
+[trading]
+pairs = ["BTC/USDT"]
+max_trade_qty = 0.01
+min_trade_qty = 0.0001
+order_type = "market"
+
+[risk]
+max_position = 0.1
+max_daily_loss = 100
+max_concurrent_trades = 3
+trade_cooldown_ms = 1000
